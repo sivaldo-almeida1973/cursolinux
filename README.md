@@ -1,0 +1,2 @@
+# cursolinux
+ gafanhoto
